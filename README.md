@@ -21,3 +21,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhibber02&theme=tokyonight&show_icons=true&locale=en" alt="chhibber02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chhibber02&theme=tokyonight" alt="chhibber02" /></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=tanxveer&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img width="48%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tanxveer&theme=tokyonight&hide_border=true" />
+</a>
+<table align = "center">
+  <td>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanxveer&theme=tokyonight&layout=compact&hide_border=true" />
+</a>
+  </td>
+</table>
